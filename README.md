@@ -61,7 +61,7 @@ const tobi = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=project-name-1&theme=tokyonight)](https://github.com/tobioffice/CollageBot)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=CollageBot&theme=tokyonight)](https://github.com/tobioffice/CollageBot)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=project-name-2&theme=tokyonight)](https://github.com/tobioffice/project-name-2)
 
 </div>
