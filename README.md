@@ -62,10 +62,8 @@ const tobi = {
 <div align="center">
 
 [![CollageBot](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=CollageBot&theme=tokyonight)](https://github.com/tobioffice/CollageBot)
-A powerful Discord bot that creates beautiful photo collages from user-submitted images, enhancing server engagement and creativity.
 
 [![Tobify](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=tobify&theme=tokyonight)](https://github.com/tobioffice/tobify)
-A modern music streaming platform built with React and Node.js, featuring a sleek UI and seamless audio playback experience.
 
 </div>
 
