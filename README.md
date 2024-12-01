@@ -61,7 +61,7 @@ const tobi = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=project-name-1&theme=tokyonight)](https://github.com/tobioffice/project-name-1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=project-name-1&theme=tokyonight)](https://github.com/tobioffice/CollageBot)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=project-name-2&theme=tokyonight)](https://github.com/tobioffice/project-name-2)
 
 </div>
@@ -70,7 +70,7 @@ const tobi = {
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](muraliaggipothu@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your-Twitter-URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](Your-Portfolio-URL)
 
