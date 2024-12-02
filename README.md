@@ -12,7 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/tobioffice?logo=GitHub&style=for-the-badge)](https://github.com/tobioffice)
 [![GitHub Stars](https://img.shields.io/github/stars/tobioffice?logo=github&style=for-the-badge)](https://github.com/tobioffice)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/a-murali-b115032b6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tobioffice/)
 
 </div>
 
