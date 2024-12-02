@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="100%" src="assets/wave.svg" alt="wave"/>
+    <img width="100%" src="assets/wave1.svg" alt="wave"/>
 </div>
 
 # <div align="center">Hello, I'm Tobi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /></div>
