@@ -45,7 +45,7 @@ A passionate Full Stack Developer who loves turning ideas into reality through e
 
 <div align="center">
 
-[![TCODTECH-WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=CODTECH-WeatherApp&theme=tokyonight)](https://github.com/tobioffice/CODTECH-WeatherApp)
+[![WLAKATA_US](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=WLAKATA_US&theme=tokyonight)](https://github.com/tobioffice/WLAKATA_US)
 
 [![NbkristQik](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=NbkristQik&theme=tokyonight)](https://github.com/tobioffice/NbkristQik)
 
