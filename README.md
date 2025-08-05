@@ -8,6 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/tobioffice?logo=GitHub&style=for-the-badge)](https://github.com/tobioffice)
 [![GitHub Stars](https://img.shields.io/github/stars/tobioffice?logo=github&style=for-the-badge)](https://github.com/tobioffice)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tobioffice/)
+
 </div>
 
 ## 👨‍💻 About Me
@@ -21,11 +22,15 @@ A passionate Full Stack Developer who loves turning ideas into reality through e
 - 🎯 Goal: Making the web more beautiful, one line at a time
 
 ## 🛠️ Tech Stack
+
 ### Frontend
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ### Backend & DevOps
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -45,7 +50,7 @@ A passionate Full Stack Developer who loves turning ideas into reality through e
 
 <div align="center">
 
-[![WLAKATA_US](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=WLAKATA_US&theme=tokyonight)](https://github.com/tobioffice/WLAKATA_US)
+[![WLKATA_US](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=WLKATA_US&theme=tokyonight)](https://github.com/tobioffice/WLKATA_US)
 
 [![NbkristQik](https://github-readme-stats.vercel.app/api/pin/?username=tobioffice&repo=NbkristQik&theme=tokyonight)](https://github.com/tobioffice/NbkristQik)
 
