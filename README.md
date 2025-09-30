@@ -14,7 +14,7 @@
 Full stack developer with a focus on building modern web applications using TypeScript, React, and Node.js
 
 - Experienced in creating responsive user interfaces and scalable backend systems
-- Currently working with Next.js, Express, and MongoDB/PostgreSQL
+- Currently working with Next.js, MongoDB, and PostgreSQL
 - Always learning and improving my craft
 
 ## 🛠️ Tech Stack
