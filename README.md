@@ -9,8 +9,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Computer">
-
 Full stack developer with a focus on building modern web applications using TypeScript, React, and Node.js
 
 - Experienced in creating responsive user interfaces and scalable backend systems
@@ -39,12 +37,6 @@ Full stack developer with a focus on building modern web applications using Type
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tobioffice&theme=tokyonight" alt="GitHub Streak" height="150">
-</div>
 
 ## 📫 Connect
 
