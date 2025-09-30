@@ -3,7 +3,7 @@
 
 # Hello, I'm Murali <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-**Full Stack Developer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Self-Taught+Dev;Code+Explorer;Team+Player" alt="Typing SVG" />
 
 </div>
 
