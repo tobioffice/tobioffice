@@ -37,7 +37,7 @@ Full stack developer with a focus on building modern web applications using Type
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📫 Connect
+# 📫 Connect
 
 <div align="center">
 <a href="mailto:muraliaggipothu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
